@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=859
+
+[register]<Leader>Dp  - destructively pastes the register after the cursor, includes destructive paste of vertical blocks.
+
+[register]<Leader>DP - destructively pastes before the cursor.
